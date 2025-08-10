@@ -7,3 +7,9 @@
 <img src="https://github.com/Vaishnavi22-mr/5213714_Vaishnavi-M-R/blob/main/c%20intermediate.jpg" alt="c inter">
 
 
+<img src="https://github.com/Vaishnavi22-mr/5213714_Vaishnavi-M-R/blob/main/c%20introduction.jpg" alt="c intro">
+
+<img src="https://github.com/Vaishnavi22-mr/5213714_Vaishnavi-M-R/blob/main/c%20intermediate.jpg" alt="c inter">
+
+
+
